@@ -1,0 +1,33 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+h1{
+    font-size: 50px
+}
+.mango{
+    color: orange;
+}
+section{
+    display: flex;
+}
+.khamba{
+    width: 50%;
+    padding-left: 3%;
+    padding-top: 1%;
+    padding-right: 2%;
+}
+.khamba img{
+    width: 80%;
+}
+.chesra{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    color: white;
+    font-weight: 900;
+    padding: 10px 40px;
+}
+.top-class{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
