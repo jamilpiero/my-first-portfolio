@@ -8,8 +8,9 @@ h1{
 .mango{
     color: orange;
 }
-section{
+.hamba{
     display: flex;
+    margin-bottom: 100px;
 }
 .khamba{
     width: 50%;
@@ -24,10 +25,33 @@ section{
     text-decoration: none;
     background-image: linear-gradient(orange,tomato);
     color: white;
-    font-weight: 900;
+    font-weight: 750;
     padding: 10px 40px;
 }
 .top-class{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+.dream-big{
+    background-image:url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.lomba{
+    box-shadow: gray 10px 10px 50px;
+    width: 40%;
+    margin-right: 6%;
+    margin-left: 6%;
+    padding-left: 12px;
+    border-radius: 10px;
+}
+.experince-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#web-dev-loper{
+    border-left: 7px solid;
+    border-image:linear-gradient(blue,cyan );
+    border-image-slice: 1;
 }
