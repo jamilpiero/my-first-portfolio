@@ -55,3 +55,8 @@ h1{
     border-image:linear-gradient(blue,cyan );
     border-image-slice: 1;
 }
+#full-stack-developer{
+    border-left: 7px solid;
+    border-image:linear-gradient(salmon,tomato);
+    border-image-slice: 1;
+}
