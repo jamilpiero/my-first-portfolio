@@ -23,7 +23,7 @@ h1{
 }
 .chesra{
     text-decoration: none;
-    background-image: linear-gradient(orange,tomato);
+    background-image: linear-gradient(rgb(255, 196, 0),tomato);
     color: white;
     font-weight: 750;
     padding: 10px 40px;
